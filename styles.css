@@ -64,3 +64,9 @@ body {
   font-size: 1.3rem;
   width: calc(100% / 4.2);
 }
+
+.footer {
+  color: #b8c6dc;
+  font-size: 0.7rem;
+}
+
